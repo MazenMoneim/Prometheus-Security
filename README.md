@@ -1,6 +1,6 @@
 # Prometheus-Security
 #### After prometheus and exporter services was installed, and after config files in prometheus server and node exporter were configured, our main focus is to secure our metrics in exporter side to avoid any unwanted scraping.
-## Secure our metrics
+## Using HTTPS to Secure our metrics
 
 ### Encryption
 ![image](https://github.com/MazenMoneim/Prometheus-Security/assets/135109542/c96a7c2a-1b81-4247-a6df-9f8018677f32)
