@@ -1,0 +1,7 @@
+tls_server_config:
+    cert_file: node_exporter.crt
+    key_file: node_exporter.key
+basic_auth_users:
+  #password in hashing format
+  prometheus: $2y$12$xLoIA0Cnh2ob89t1.j3pteNilLf4JIeRMA0KrVRWdw9tFOC5OmyTm
+
